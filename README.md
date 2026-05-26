@@ -29,6 +29,11 @@ You play as a bunny with **5 HP**. Each level introduces new obstacles and mecha
 
 If your HP reaches **0**, the game ends.
 
+<img width="498" height="500" alt="SCREENSHOT3" src="https://github.com/user-attachments/assets/4109f47f-51fd-4a0d-8a64-ead1d6431640" />
+<img width="<img width="497" height="497" alt="SCREENSHOT5" src="https://github.com/user-attachments/assets/59a406b5-f5d8-44ea-b964-d1ac4e0dcb7b" />
+<img width="498" height="497" alt="SCREENSHOT4" src="https://github.com/user-attachments/assets/f19f59d8-6fa9-409d-b52f-81c7716d4bf8" />
+497" height="496" alt="SCREENSHOT6" src="https://github.com/user-attachments/assets/be9d593f-82c1-481b-a950-bd9562f725cc" />
+
 ---
 
 ## Controls
