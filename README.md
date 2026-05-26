@@ -29,12 +29,18 @@ You play as a bunny with **5 HP**. Each level introduces new obstacles and mecha
 - **Stage 3:** Jump across platforms while avoiding bats
  
   <img width="498" height="500" alt="SCREENSHOT3" src="https://github.com/user-attachments/assets/c921796a-46d4-41ff-bc9c-87f590da3eef" />
+
+  <img width="493" height="486" alt="SCREENSHOT8" src="https://github.com/user-attachments/assets/c243db4f-7bec-4121-bee3-773bbeea95a5" />
+
 - **Stage 4:** Use seeds to defeat rats and continue through platform obstacles
  
   <img width="498" height="497" alt="SCREENSHOT4" src="https://github.com/user-attachments/assets/c343a5e3-88a1-4e63-b761-71ced2af454c" />
 - **Stage 5:** Fight a monster by hitting it with seeds to unlock the door
  
   <img width="497" height="497" alt="SCREENSHOT5" src="https://github.com/user-attachments/assets/2521d505-2954-4ff1-bb32-4551fd1c471f" />
+
+  <img width="495" height="497" alt="SCREENSHOT9" src="https://github.com/user-attachments/assets/af2cbe33-446a-4315-b980-156a7cf172e4" />
+
 - **Stage 6:** Victory screen with a congratulations message and reward
  
   <img width="495" height="496" alt="SCREENSHOT7" src="https://github.com/user-attachments/assets/b824e345-25c5-4c63-a80a-73cded4d3978" />
