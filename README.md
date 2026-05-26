@@ -21,17 +21,24 @@ The game features:
 You play as a bunny with **5 HP**. Each level introduces new obstacles and mechanics:
 
 - **Stage 1:** Avoid spikes and reach the door
-- <img width="496" height="496" alt="SCREENSHOT1" src="https://github.com/user-attachments/assets/a966d74b-ac1c-44cf-95dd-1d3e4dc3d76e" />
+ 
+  <img width="496" height="496" alt="SCREENSHOT1" src="https://github.com/user-attachments/assets/a966d74b-ac1c-44cf-95dd-1d3e4dc3d76e" />
 - **Stage 2:** Avoid a moving bat and reach the door
-- 
+ 
+  <img width="497" height="497" alt="SCREENSHOT2" src="https://github.com/user-attachments/assets/0f1efc91-c7a2-432c-bcd9-7c28caa68ec6" />
 - **Stage 3:** Jump across platforms while avoiding bats
-- 
+ 
+  <img width="498" height="500" alt="SCREENSHOT3" src="https://github.com/user-attachments/assets/c921796a-46d4-41ff-bc9c-87f590da3eef" />
 - **Stage 4:** Use seeds to defeat rats and continue through platform obstacles
-- 
+ 
+  <img width="498" height="497" alt="SCREENSHOT4" src="https://github.com/user-attachments/assets/c343a5e3-88a1-4e63-b761-71ced2af454c" />
 - **Stage 5:** Fight a monster by hitting it with seeds to unlock the door
-- 
+ 
+  <img width="497" height="497" alt="SCREENSHOT5" src="https://github.com/user-attachments/assets/2521d505-2954-4ff1-bb32-4551fd1c471f" />
 - **Stage 6:** Victory screen with a congratulations message and reward
-
+ 
+  <img width="495" height="496" alt="SCREENSHOT7" src="https://github.com/user-attachments/assets/b824e345-25c5-4c63-a80a-73cded4d3978" />
+ 
 If your HP reaches **0**, the game ends.
 
 <img width="497" height="496" alt="SCREENSHOT6" src="https://github.com/user-attachments/assets/e1e39382-3b6a-41dd-86bc-5ef0439a2eb0" />
