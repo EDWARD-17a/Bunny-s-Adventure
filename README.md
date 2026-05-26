@@ -77,7 +77,7 @@ If your HP reaches **0**, the game ends.
 The player advances by touching the **door** at the end of each stage. Some levels require defeating enemies before the door becomes available.
 
 ### Score System
-- Gain **1000 points** for completing each stage
+- Gain **1000 points + (200 x HP)points** for completing each stage
 - On the final stage, bonus score depends on remaining HP:
   - `1000 × HP`
 
