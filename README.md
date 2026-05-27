@@ -6,6 +6,17 @@ https://studio.code.org/projects/gamelab/9df14b89-36bd-43f8-9f81-eb6c599a108b
 ## Overview
 **Adventure of Bunny** is a Code.org Game Lab platformer where you control a bunny through a series of increasingly difficult levels. The goal is to survive hazards, avoid enemies, use seed projectiles to defeat certain threats, and reach the door to advance to the next stage.
 
+## What is your game about?
+My game, **Bunny's Adventure**, is a platform adventure game where the player controls a bunny through different stages filled with obstacles and enemies. The player must avoid spikes, bats, rats, and a monster, while junping or using seed attacks to survive and reach the door at the end of each level.
+
+## What did you find challenging, and how did you solve it?
+One of the biggest challenges was making the different enemies and stages work correctly, especially collisions, movement, and level progression. I solved this by breaking the game into smaller functions, such as creating separate functions for movement, jumping, enemy creation, and stage changes. This made the code easier to manage and fix when something went wrong.
+
+## What did you find interesting and made you complete your game?
+The most interesting part was building different stages with new challenges in each one.Creating a full game with health, scoring, and a winning ending made the project fun and motivated me to finish it.
+
+---
+
 The game features:
 - Multiple stages with different challenges
 - Health points system
@@ -17,10 +28,85 @@ The game features:
 
 ---
 
-# DESIGN
+## Design
+## Stages
+
+You play as a bunny with **5 HP**. Each level introduces new obstacles and mechanics:
+
+- **Stage 1:** Avoid spikes and reach the door
+ 
+  <img width="496" height="496" alt="SCREENSHOT1" src="https://github.com/user-attachments/assets/a966d74b-ac1c-44cf-95dd-1d3e4dc3d76e" />
+- **Stage 2:** Avoid a moving bat and reach the door
+ 
+  <img width="497" height="497" alt="SCREENSHOT2" src="https://github.com/user-attachments/assets/0f1efc91-c7a2-432c-bcd9-7c28caa68ec6" />
+- **Stage 3:** Jump across platforms while avoiding bats
+ 
+  <img width="498" height="500" alt="SCREENSHOT3" src="https://github.com/user-attachments/assets/c921796a-46d4-41ff-bc9c-87f590da3eef" />
+
+  <img width="493" height="486" alt="SCREENSHOT8" src="https://github.com/user-attachments/assets/c243db4f-7bec-4121-bee3-773bbeea95a5" />
+
+- **Stage 4:** Use seeds to defeat rats and continue through platform obstacles
+ 
+  <img width="498" height="497" alt="SCREENSHOT4" src="https://github.com/user-attachments/assets/c343a5e3-88a1-4e63-b761-71ced2af454c" />
+- **Stage 5:** Fight a monster by hitting it with seeds to unlock the door
+ 
+  <img width="497" height="497" alt="SCREENSHOT5" src="https://github.com/user-attachments/assets/2521d505-2954-4ff1-bb32-4551fd1c471f" />
+
+  <img width="495" height="497" alt="SCREENSHOT9" src="https://github.com/user-attachments/assets/af2cbe33-446a-4315-b980-156a7cf172e4" />
+
+- **Stage 6:** Victory screen with a congratulations message and reward
+ 
+  <img width="495" height="496" alt="SCREENSHOT7" src="https://github.com/user-attachments/assets/b824e345-25c5-4c63-a80a-73cded4d3978" />
+ 
+If your HP reaches **0**, the game ends.
+
+<img width="497" height="496" alt="SCREENSHOT6" src="https://github.com/user-attachments/assets/e1e39382-3b6a-41dd-86bc-5ef0439a2eb0" />
+---
 
 ## Sprites
 This project uses sprite animations for:
+- Bunny
+
+<img width="100" height="80" alt="bunny" src="https://github.com/user-attachments/assets/22d23602-06bf-4e38-9a5a-f850756701e1" />
+ 
+- Door
+
+<img width="70" height="100" alt="door1" src="https://github.com/user-attachments/assets/927fac33-2094-4efd-abdc-6f605ac7e103" />
+  
+- Bat
+
+<img width="100" height="60" alt="bat_1" src="https://github.com/user-attachments/assets/37df5093-2391-4db3-9c42-34ea5a75c6bb" />
+
+- Rat
+
+<img width="100" height="35" alt="rat_1" src="https://github.com/user-attachments/assets/10a54839-acad-4499-bda4-a7ed75d9ecf7" />
+
+- Monster
+
+<img width="100" height="80" alt="bison_1" src="https://github.com/user-attachments/assets/f96fd768-d237-4583-a4ef-b0ab25a3bdb6" />
+  
+- Seed projectile
+
+<img width="100" height="100" alt="seed" src="https://github.com/user-attachments/assets/86c96f37-c162-4142-bd2d-cd3cde71375c" />
+
+- Hearts / HP icons
+
+<img width="100" height="100" alt="HP" src="https://github.com/user-attachments/assets/24329d27-53e1-411c-bac9-4aa33bfa1956" />
+ 
+- Platforms
+
+<img width="100" height="30" alt="ground_grass_1" src="https://github.com/user-attachments/assets/ac40236e-942d-4469-a9b4-71c259510b64" />
+
+<img width="100" height="30" alt="ground_wood_broken_1" src="https://github.com/user-attachments/assets/c4bd1459-a26b-48f6-aebe-b5ae9dfcc751" />
+
+- Spikes
+
+<img width="40" height="100" alt="rockGrass_1" src="https://github.com/user-attachments/assets/d01dea6c-5b72-4d7f-bcb0-9f123cd48ccc" />
+
+- Reward item
+  
+<img width="100" height="80" alt="HP2" src="https://github.com/user-attachments/assets/251abbf3-e0ec-4179-86d0-41e6caf7165a" />
+<!--
 - Bunny
 
 <img width="244" height="209" alt="bunny" src="https://github.com/user-attachments/assets/22d23602-06bf-4e38-9a5a-f850756701e1" />
@@ -62,40 +148,7 @@ This project uses sprite animations for:
 - Reward item
   
 <img width="400" height="341" alt="HP2" src="https://github.com/user-attachments/assets/251abbf3-e0ec-4179-86d0-41e6caf7165a" />
-
-
-## Gameplay
-
-You play as a bunny with **5 HP**. Each level introduces new obstacles and mechanics:
-
-- **Stage 1:** Avoid spikes and reach the door
- 
-  <img width="496" height="496" alt="SCREENSHOT1" src="https://github.com/user-attachments/assets/a966d74b-ac1c-44cf-95dd-1d3e4dc3d76e" />
-- **Stage 2:** Avoid a moving bat and reach the door
- 
-  <img width="497" height="497" alt="SCREENSHOT2" src="https://github.com/user-attachments/assets/0f1efc91-c7a2-432c-bcd9-7c28caa68ec6" />
-- **Stage 3:** Jump across platforms while avoiding bats
- 
-  <img width="498" height="500" alt="SCREENSHOT3" src="https://github.com/user-attachments/assets/c921796a-46d4-41ff-bc9c-87f590da3eef" />
-
-  <img width="493" height="486" alt="SCREENSHOT8" src="https://github.com/user-attachments/assets/c243db4f-7bec-4121-bee3-773bbeea95a5" />
-
-- **Stage 4:** Use seeds to defeat rats and continue through platform obstacles
- 
-  <img width="498" height="497" alt="SCREENSHOT4" src="https://github.com/user-attachments/assets/c343a5e3-88a1-4e63-b761-71ced2af454c" />
-- **Stage 5:** Fight a monster by hitting it with seeds to unlock the door
- 
-  <img width="497" height="497" alt="SCREENSHOT5" src="https://github.com/user-attachments/assets/2521d505-2954-4ff1-bb32-4551fd1c471f" />
-
-  <img width="495" height="497" alt="SCREENSHOT9" src="https://github.com/user-attachments/assets/af2cbe33-446a-4315-b980-156a7cf172e4" />
-
-- **Stage 6:** Victory screen with a congratulations message and reward
- 
-  <img width="495" height="496" alt="SCREENSHOT7" src="https://github.com/user-attachments/assets/b824e345-25c5-4c63-a80a-73cded4d3978" />
- 
-If your HP reaches **0**, the game ends.
-
-<img width="497" height="496" alt="SCREENSHOT6" src="https://github.com/user-attachments/assets/e1e39382-3b6a-41dd-86bc-5ef0439a2eb0" />
+-->
 ---
 
 ## Controls
