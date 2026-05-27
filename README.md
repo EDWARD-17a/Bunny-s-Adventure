@@ -123,15 +123,46 @@ The player advances by touching the **door** at the end of each stage. Some leve
 ## Sprites
 This project uses sprite animations for:
 - Bunny
+
+<img width="244" height="209" alt="bunny" src="https://github.com/user-attachments/assets/22d23602-06bf-4e38-9a5a-f850756701e1" />
+ 
 - Door
+
+<img width="140" height="190" alt="door1" src="https://github.com/user-attachments/assets/927fac33-2094-4efd-abdc-6f605ac7e103" />
+  
 - Bat
+
+<img width="400" height="217" alt="bat_1" src="https://github.com/user-attachments/assets/37df5093-2391-4db3-9c42-34ea5a75c6bb" />
+
 - Rat
+
+<img width="393" height="137" alt="rat_1" src="https://github.com/user-attachments/assets/10a54839-acad-4499-bda4-a7ed75d9ecf7" />
+
 - Monster
+
+<img width="397" height="273" alt="bison_1" src="https://github.com/user-attachments/assets/f96fd768-d237-4583-a4ef-b0ab25a3bdb6" />
+  
 - Seed projectile
+
+<img width="128" height="128" alt="seed" src="https://github.com/user-attachments/assets/86c96f37-c162-4142-bd2d-cd3cde71375c" />
+
 - Hearts / HP icons
+
+<img width="167" height="143" alt="HP" src="https://github.com/user-attachments/assets/24329d27-53e1-411c-bac9-4aa33bfa1956" />
+ 
 - Platforms
+
+<img width="380" height="94" alt="ground_grass_1" src="https://github.com/user-attachments/assets/ac40236e-942d-4469-a9b4-71c259510b64" />
+
+<img width="380" height="94" alt="ground_wood_broken_1" src="https://github.com/user-attachments/assets/c4bd1459-a26b-48f6-aebe-b5ae9dfcc751" />
+
 - Spikes
+
+<img width="108" height="239" alt="rockGrass_1" src="https://github.com/user-attachments/assets/d01dea6c-5b72-4d7f-bcb0-9f123cd48ccc" />
+
 - Reward item
+  
+<img width="400" height="341" alt="HP2" src="https://github.com/user-attachments/assets/251abbf3-e0ec-4179-86d0-41e6caf7165a" />
 
 If you have a full sprite sheet or image collection, you can add it below.
 
